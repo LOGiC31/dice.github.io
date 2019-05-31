@@ -1,0 +1,35 @@
+body{
+  background-color: #bbb;
+}
+.upperContainer{
+  text-align: center;
+}
+h2{
+  color: #252a34;
+  text-align: center;
+ display:inline-block;
+ padding:5px 250px;
+ margin-top: 0;
+}
+h1{
+  margin-top: 0;
+  font-size: 4.5rem;
+  color: #252a34;
+  padding-top: 25px;
+  text-align: center;
+}
+.images{
+  text-align: center;
+}
+.img1, .img2{
+  padding:25px 180px;
+  display:inline-block;
+
+}
+img{
+  height: 256px;
+  width: 256px;
+}
+h4{
+  text-align: center;
+}
